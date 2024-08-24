@@ -10,7 +10,7 @@
                 <span><i class="float-right fas fa-angle-right"></i></span>
             </a>
         </li>
-        <li class="w-full h-full px-2 py-3 border-b border-light-border">
+        {{-- <li class="w-full h-full px-2 py-3 border-b border-light-border">
             <a href="forms.html" class="font-sans text-sm font-hairline no-underline hover:font-normal text-nav-item">
                 <i class="float-left mx-2 fab fa-wpforms"></i>
                 Forms
@@ -23,7 +23,7 @@
                 Buttons
                 <span><i class="float-right fa fa-angle-right"></i></span>
             </a>
-        </li>
+        </li> --}}
         <li class="relative w-full h-full px-2 py-3 border-b border-light-border">
             <a href="#" class="font-sans text-sm font-hairline no-underline hover:font-normal text-nav-item">
                 <i class="float-left mx-2 fas fa-table"></i>

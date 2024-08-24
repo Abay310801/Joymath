@@ -6,7 +6,7 @@
 
         <div class="flex flex-col">
             <!-- Stats Row Starts Here -->
-            <div class="flex flex-col flex-1 mx-2 md:flex-row lg:flex-row">
+            {{-- <div class="flex flex-col flex-1 mx-2 md:flex-row lg:flex-row">
                 <div
                     class="p-2 mx-2 mb-2 border-l-8 shadow-lg bg-red-vibrant hover:bg-red-vibrant-dark border-red-vibrant-dark md:w-1/4">
                     <div class="flex flex-col p-4">
@@ -51,7 +51,7 @@
                         </a>
                     </div>
                 </div>
-            </div>
+            </div> --}}
 
             <!-- /Stats Row Ends Here -->
 
@@ -60,7 +60,7 @@
 
                 <!-- card -->
 
-                <div class="w-full mx-2 overflow-hidden bg-white rounded shadow">
+                {{-- <div class="w-full mx-2 overflow-hidden bg-white rounded shadow">
                     <div class="px-6 py-2 border-b border-light-grey">
                         <div class="text-xl font-bold">Trending Categories</div>
                     </div>
@@ -138,7 +138,7 @@
                             </tbody>
                         </table>
                     </div>
-                </div>
+                </div> --}}
                 <!-- /card -->
 
             </div>

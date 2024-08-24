@@ -17,17 +17,26 @@
         </div>
         <div class="max-w-xl mx-auto overflow-hidden bg-white rounded-lg shadow-md">
             <div class="p-4">
-                <h3 class="text-xl font-bold text-gray-900">About</h3>
                 <p class="mt-2 text-gray-700">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ac odio hendrerit, blandit lacus nec,
-                    efficitur velit. Sed ac sapien erat. Phasellus hendrerit purus ut purus pharetra, non efficitur ex
-                    pulvinar. Integer venenatis tortor a metus egestas, ut faucibus nulla tempor. Sed sit amet diam libero.
-                    Ut lacinia dui ut fermentum egestas. Donec pharetra, tortor in fermentum tincidunt, urna elit laoreet
-                    odio, ac faucibus leo neque eu nunc. Nullam non purus vel erat lacinia fermentum. Vestibulum id pharetra
-                    erat. Curabitur a velit quis tortor dictum dignissim. Cras ultricies fermentum tellus, et sodales orci
-                    commodo a. Curabitur vel ligula risus.
-
+                Joymath Cognitive Behavioral merupakan metode pemebelajaran yang menggabungkan teknik terapi kognitif 
+                perilaku dengan tujuan restrukturisasi kognitif dan teknik relaksasi untuk membantu siswa mengendalikan 
+                kecemasan dalam belajar matematika.inovasi penting yang mengintegrasikan pembelajaran matematika dengan 
+                dukungan kesehatan mental, bertujuan untuk menciptakan lingkungan belajar yang lebih positif, nyaman, dan 
+                bebas kecemasan. Metode ini diharapkan dapat meningkatkan kualitas pendidikan, kesejahteraan mental siswa, 
+                dan relevansi proses pembelajaran dengan kebutuhan generasi alpha yang akrab dengan teknologi. Inovasi ini 
+                juga diharapkan memberikan manfaat signifikan bagi perguruan tinggi, mitra, siswa, dan sekolah, menciptakan 
+                solusi win-win bagi semua pihak yang terlibat.
                 </p>
+                <br>
+                <h1>Metode ini menawarkan beberapa keunggulan:</h1>
+                <ol>
+                <li>1. Pendekatan Berbasis Psikologi</li>
+                <li>2. Inklusif</li>
+                <li>3. Konten Pembelajaran Beragam</li>
+                <li>4. Video Edukatif Pendek</li>
+                <li>5. Keseimbangan Matematika dan Kesehatan Mental</li>
+                <li>6. Bahasa yang Menyenangkan</li>
+                </ol>
             </div>
         </div>
     </div>

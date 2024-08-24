@@ -17,12 +17,12 @@
                 </p>
                 <ul class="flex items-center justify-center gap-3 py-2 md:justify-center">
                     <li>
-                        <a href="https://www.instagram.com" target="_blank" class="text-[24px] hover:text-blue-600">
+                        <a href="https://www.instagram.com/jcb_mfumby?igsh=bjNlaTc5Zm5jNWEx" target="_blank" class="text-[24px] hover:text-blue-600">
                             <i class="fa-brands fa-instagram"></i>
                         </a>
                     </li>
                     <li>
-                        <a href="https://www.tiktok.com" target="_blank" class="text-[24px] hover:text-blue-600">
+                        <a href="http://tiktok.com/@joymath.cognitive" target="_blank" class="text-[24px] hover:text-blue-600">
                             <i class="fa-brands fa-tiktok"></i>
                         </a>
                     </li>
@@ -38,9 +38,8 @@
             <div class="text-center md:text-left">
                 <p class="text-[#000] font-bold text-[22px] mb-5">Explore</p>
                 <ul class="space-y-2">
-                    <li><a href="#" class="hover:text-blue-600">Course</a></li>
-                    <li><a href="#" class="hover:text-blue-600">Contact us</a></li>
-                    <li><a href="#" class="hover:text-blue-600">Tentang Kami</a></li>
+                    <li><a href="{{route('learningalltopik')}}" class="hover:text-blue-600">Course</a></li>
+                    <li><a href="{{route('about')}}" class="hover:text-blue-600">Tentang Kami</a></li>
                 </ul>
             </div>
         </div>
